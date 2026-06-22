@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[75700,["/buyma-calculator/_next/static/chunks/158myu8e_yme3.js","/buyma-calculator/_next/static/chunks/1lpnwzj3pq33h.js"],"default"]
+2:I[75700,["/buyma-calculator/_next/static/chunks/158myu8e_yme3.js","/buyma-calculator/_next/static/chunks/06u7blz4h9ehm.js"],"default"]
 3:I[97367,["/buyma-calculator/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center bg-black px-4 py-12","children":[["$","div",null,{"className":"mb-8 flex flex-col items-center gap-1 text-center","children":[["$","h1",null,{"className":"text-2xl font-bold text-zinc-50","children":"바이마 수익률 계산기"}],["$","p",null,{"className":"text-sm text-zinc-500","children":"원가, 배송비, 관세, 수수료를 입력하면 실시간으로 순이익을 계산합니다."}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/buyma-calculator/_next/static/chunks/1lpnwzj3pq33h.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UbLvT05_S_YMsd-BSsfEi"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center bg-black px-4 py-8","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/buyma-calculator/_next/static/chunks/06u7blz4h9ehm.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CdqBzePzQ5IdtRVN77T4l"}
 5:null
